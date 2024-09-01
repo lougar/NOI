@@ -8,5 +8,6 @@ int main()
 	printf("%d,%d,%d",a,b,c);
 	//cin>>t>>n;
 	//cout<<t*n<<endl;
+	cout<<hello world<<endl;
 	return 0;
 } 
