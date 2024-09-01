@@ -8,6 +8,6 @@ int main()
 	printf("%d,%d,%d",a,b,c);
 	//cin>>t>>n;
 	//cout<<t*n<<endl;
-	cout<<hello world<<endl;
+	cout<<"hello lougar code world"<<endl;
 	return 0;
 } 
